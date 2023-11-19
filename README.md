@@ -2,17 +2,22 @@
 
 - 🔭 I’m currently working on ...
   -   [Delegactor](https://github.com/jazeem-azeez/Delegactor)
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning/refreshing ...
   - Go
   - C++
   - Rust
   - Elixir
+
 - 👯 I’m looking to collaborate on ...
   - Delegactor
+
 - 🤔 I’m looking for help with ...
-  - Finding a job in build low latency distributed systems
+  - Finding a job where I can contribute to low latency distributed systems
   - Learn Elixir, TLA+
   - Build something awesome
+ 
+    
 - 💬 Ask me about ...
   - Engineering in General
   - C#
@@ -21,10 +26,13 @@
   - System Design
   - Mentoring
   - Theology
+
 - 📫 How to reach me: ...
   -[jazeem-azeez](https://www.linkedin.com/in/jazeem-azeez/)
+
 - 😄 Pronouns: ...
   - I don't care, I'm too old for that.
+
 - ⚡ Fun fact: ...
   - When I was born, I came to realize that I 'm so awesome, that was so shocking that I couldn't speak properly for the first two/thre years.
   - I learned do drive by myself observing how dad drives and from day one  I start to drive like a pro: true fact 😉
