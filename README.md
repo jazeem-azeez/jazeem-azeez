@@ -37,3 +37,9 @@
   - When I was born, I came to realize that I 'm so awesome, that was so shocking that I couldn't speak properly for the first two/thre years.
   - I learned do drive by myself observing how dad drives and from day one  I start to drive like a pro: true fact 😉
   - I still try to learn/revisit fundamentals like 10th grade fundamentals
+
+
+## Certifications
+
+![image](https://github.com/jazeem-azeez/jazeem-azeez/assets/8478849/ddffda9a-8d99-4bb1-8c7f-695d332a0819)
+[ORMCertificate20231130-29-2xgju.pdf](https://github.com/jazeem-azeez/jazeem-azeez/files/13518810/ORMCertificate20231130-29-2xgju.pdf)
