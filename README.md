@@ -43,3 +43,7 @@
 
 ![image](https://github.com/jazeem-azeez/jazeem-azeez/assets/8478849/ddffda9a-8d99-4bb1-8c7f-695d332a0819)
 [ORMCertificate20231130-29-2xgju.pdf](https://github.com/jazeem-azeez/jazeem-azeez/files/13518810/ORMCertificate20231130-29-2xgju.pdf)
+
+## Resume Latest
+[Jazeem-CV-v4-2023.pdf](https://github.com/jazeem-azeez/jazeem-azeez/files/13651261/Jazeem-CV-v4-2023.pdf)
+
