@@ -1,5 +1,7 @@
 # Software Engineering from Novice to Pro - Boot camp 
 
+Read Content - from Pragmatic Engineer
+
 Topic 1
 	It's Your Life
 
