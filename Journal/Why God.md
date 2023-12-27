@@ -23,8 +23,9 @@ Basically all of them points out to your ability to **believe in something that 
 
 The next important thing for humans is the values that he/mind holds. we will disuss this in then next section. 
 
-Simply put Believing in something like God will teach you to how to believe in ideas and will give you hope at the time of advestity. 
+Simply put Believing in something like God will teach you to how to believe in ideas and will give you hope at the time of adversity. 
 
-## Religion
+## Religion and Faith.
 
 
+## Islam / Other Religions
