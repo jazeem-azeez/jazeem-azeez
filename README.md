@@ -11,8 +11,8 @@
   - Delegactor
 
 - 🤔 I’m looking for help with ...
-  - Finding a job where I can contribute to low latency distributed systems
-  - Learn Elixir, TLA+
+  - Finding a job where I can contribute to low latency/ large scale distributed systems
+  - Learn TLA+, Swtich to C++
   - Build something awesome
  
     
