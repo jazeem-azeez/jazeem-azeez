@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning/refreshing ...
   - Go
   - C++
-  - Rust
-  - Elixir
 
 - 👯 I’m looking to collaborate on ...
   - Delegactor
