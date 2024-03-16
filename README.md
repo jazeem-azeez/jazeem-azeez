@@ -51,5 +51,5 @@
 
 ## My Shared Calendar
 
-https://calendar.google.com/calendar/embed?src=4d18ac2169aebcfa38d574ee527ca60c308c44f47caf2a143e62b0a8b3938297%40group.calendar.google.com&ctz=Europe%2FLondon
+[Google Calendar](https://calendar.google.com/calendar/u/0?cid=NGQxOGFjMjE2OWFlYmNmYTM4ZDU3NGVlNTI3Y2E2MGMzMDhjNDRmNDdjYWYyYTE0M2U2MmIwYThiMzkzODI5N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
