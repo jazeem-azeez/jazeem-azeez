@@ -49,5 +49,7 @@
 
 [Resume](./Resume.md)
 
+## My Shared Calendar
 
+https://calendar.google.com/calendar/embed?src=4d18ac2169aebcfa38d574ee527ca60c308c44f47caf2a143e62b0a8b3938297%40group.calendar.google.com&ctz=Europe%2FLondon
 
