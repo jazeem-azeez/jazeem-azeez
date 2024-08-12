@@ -9,16 +9,10 @@
 
 - 👯 I’m looking to collaborate on ...
   - Delegactor
-
-- 🤔 I’m looking for help with ...
-  - Finding a job where I can contribute to low latency/ large scale distributed systems
-  - Learn TLA+, Swtich to C++
-  - Build something awesome
- 
     
 - 💬 Ask me about ...
   - Engineering in General
-  - C#
+  - C#, Go
   - Concurrent Systems
   - Current Affairs
   - System Design
