@@ -26,12 +26,12 @@
   - I don't care, I'm too old for that.
 
 - ⚡ Fun fact: ...
-  - When I was born, I realised that I'm so awesome. And it was so shocking that I couldn't speak properly for the first two/three years.
+  - When I was born, I realised that I'm so awesome. And it was so shocking that I couldn't speak properly.
   - I learned to drive by myself by observing how dad drives and from day one I started to drive like a pro: fact 😉
   - I still try to learn/revisit fundamentals like 10th-grade fundamentals.
 - 🦾 Activism
   - I always stand with the oppressed against the oppressor.
-  - I'm only trading my skill and time nod my soul.
+  - I'm only trading my skill and time not my soul.
   - One should never underestimate the power of stupid people in large numbers.
 
 ## Certifications
