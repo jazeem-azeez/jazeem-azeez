@@ -1,124 +1,98 @@
-# Jazeem Azeez - Senior Software Engineer
-  | Senior Engineer | .Net C#, GO , C++, CKAD | Masters in Technology | Skilled Worker Visa |
-  | Reading, UK | jazeem10@live.com | +447404932895 | [GitHub](https://github.com/jazeem-azeez/jazeem-azeez) | [LinkedIn](https://www.linkedin.com/in/jazeem-azeez/)| 
+### Jazeem Azeez  
+**Co-founder | Senior Engineer | C#, C++, Python**  
+Kerala, IN  
+Phone: +91 9995017123 | +44 7383927657  
+Email: jazeem10@live.com  
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jazeem-azeez-1736a5109/)  
+Notice Period: 1 Month  
 
 ---
-Innovative software engineer with a broad record of achievement and engineering skills across multiple industries and lines of business. A strong knowledge of C\# .Net design and development experience on large-scale, distributed systems. Analytical mindset with a desire to improve, a collaborative team member with excellent communication skills. A continual learner, keen to share knowledge with others, with a reputation for solving complex problems with creativity and out-of-the-box solutions.
 
-## Core Strengths and Skills
+### **Professional Summary**  
+Results-oriented Senior Engineer and Co-founder with 15+ years of expertise in **.NET, C++, Python**, and **Azure**. Proven track record in leading cross-functional teams, designing high-performance systems, and optimizing cloud infrastructures. Passionate about scientific problem-solving, algorithm development, and delivering innovative, data-driven solutions.
 
-| Low Latency Engineering| Cloud Technologies | Leadership And Management | Proactive | Pragmatic | Performance Engineering | Database Design | Object Oriented Design |
-
-| Nosql \& Sql | Mongodb | Postgres | Mysql | Elastic Search| Rest| Webapi| Grpc | Tcp/Ip | Design Patterns | Solid | Ci/Cd | Git| Devops | Jira| Scrum | Agile | Safe | Powershell | Bash| Linux | Kafka| Rabbitmq | Web-Sockets| Signalr | Event Grid | Iot Hub| Mqtt | Machine Learning| Big Data | Pyspark| Palantir-oundry | Data Structures \& Algorithms | Low Latency / Performance / Platform/ System Engineering | Kicad| Solidworks| Pdm| Embedded Systems Development| Iot |
-## Work History
 ---
-### AICORP  - Reading, United Kingdom
 
-> Senior Software Engineer / Co-Founder : From 2024/January
+### **Core Competencies**  
+- **Programming:** C#, C++, Python, Node.js, Go  
+- **Software Engineering:** Low-Latency Systems, Algorithm Development, Full Stack Development  
+- **Cloud & DevOps:** Azure, Docker, Kubernetes, Terraform, CI/CD, DevOps, Prometheus, Grafana  
+- **Data Technologies:** MongoDB, PostgreSQL, Big Data (PySpark), Machine Learning, GNN, Elasticsearch  
+- **Messaging & APIs:** gRPC, RESTful APIs, Kafka, RabbitMQ, MQTT, SignalR, Service Bus, IoT Hub  
+- **Tools:** Git, JIRA, PowerShell, Bash, Jenkins, cmake, TestRail  
+- **Methodologies:** Agile (SCRUM, SAFe), TDD, SOLID, Design Patterns  
 
-* Description : Joined a startup which I was mentoring for the past 4 years, I curated and mentored the team from scratch, built engineering practices and conventions, and resolved technical challenges for the startup. Invested in technological innovation that yielded unconventional results in a typical startup eco-system.     	
+---
 
-* Achievements :
-  * Moved to mono-repo that improved our productivity by 5x and enabled us to deploy changes multiple times a day
-  * Designed Dev-Box that reduced our development costs to 2/3rd
-  * Moved between clouds to save costs and later moved to our own infrastructure, that saved us significant amount or resources and reduced our cost by 10x , saving 15,000 pounds/yr
-  * Built our inhouse Actor Framework Delegactor and Open-sourced it
+### **Professional Experience**  
 
-> Projects : Buyconn, StreetXp, Sales-Assistant, Delegactor.
-> Technologies Used : C# .NET Core, WebApi, C++, Node.js,  Vue, RabbitMq, Azure, Go, Python ,  CI/CD, Github, Azure-Devops
-### Maersk  - Reading, United Kingdom
+#### **AICORP** — *Senior Engineer & Co-Founder*  
+**May 2024 – Present**  
+- Established engineering best practices, driving technological innovations for a high-growth startup.  
+- Developed a data-driven platform for actionable business intelligence.  
+- Designed **Delegactor (Indigenous Actor Framework)**, enabling 10K concurrent transactions on a single node.  
+- Reduced development costs by 66% through **Dev-Box** architecture.  
+- Achieved a 5x productivity boost by migrating to a mono-repo structure.
 
-> Senior Software Engineer : From 2019/October - To 2024/January
+**Key Technologies:** C# .NET Core, Node.js, Vue.js, React, Azure, Kubernetes, Python, Machine Learning, GNN
 
-* Description : IImplemented scalable architectures, frameworks, and solutions, enabling evaluation, and planning of new transport network designs. Migrated core tools to the cloud, addressing its scale issues. Designed and implemented large-scale big data platforms, solutions, and CI/CD, focusing on observability and reliability. Led a team of 35 individual contributors.
+---
 
-* Achievements :
-  * Developed data platform leveraging deep insights into Spark \& Databricks clustering technologies, resulting in zero inter-job failures, a 10x cost savings and performance improvement of 15x.
-  * Optimized system that Reduced Latency and  RTT for requests by 10X from 15 secs to less than 1.5 secs
-  * Star Engineer of the year in Maersk Team  (2020)  * 
-  * Optimized our data-engineering practices that reduced our deployment time from to weeks to daily deployments
-  * Engineered our python library to handle partitioning and shuffling automatically, this reduce our running cost by 20x and improved performance by 10x. Resulting in a saving of 2000 dollars per month per vm and we were running 20 heavy vm concurrently.
-  * Handled Lead role for a team of 35 Individual Contributors.
-  * Built automation frameworks that enabled feature partiy with Palantir foundry and helped us migrate from which helped the company to save 20 million USD annually on licensing 
-  * Contributed to Opensource Maersk-Tech
+#### **A.P. Moller Maersk** — *Senior Software Engineer*  
+**Oct 2019 – Jan 2024**  
+- Architected scalable solutions for transport network design and big data analytics.  
+- Led cloud migration projects, enhancing system availability from 95% to 99.7%.  
+- Improved platform performance by 15x and reduced data processing costs by $2000/month per VM.  
+- Automated dataset analysis with Python APIs, eliminating manual tuning.
 
-> Projects : ANDI ,Schedule Planner, DCSA, Flow Planner, Ontology Platform.
-> Technologies Used : C# .NET Core, WebApi, C++, Node.js,  Spark, Vue, Angular, Kafka, Azure, Go, Python , IOT, Datalake, TDD , DDD, Terraform, CI/CD, Github, Azure-Devops
-### Itron Inc  - Bangalore , India
+**Achievements:** *Star Engineer of the Year (2020)*  
+**Key Technologies:** Python, C# .NET Core, C++, Kafka, Azure, Spark, Docker, Kubernetes
 
-> Software Engineer II : From 2017/May - To 2019/October  
+---
 
-* Description : As an Engineer in the core R&D team, I was responsible for designing & developing a few core micro services that take care of high-velocity event ingest from On-Prem and IOT devices events. Built highly concurrent,  scalable, distributed and fault-tolerant large-scale micro services with time-bound operational requirements, with SAfe practice and ISO 27000
-* Achievements :
-  * Improved notification service throughput by 10x (1000 to 10000  events/sec )
-  * Special Appreciation for Distinguished contributions.
-  * Written High performance Messaging Systems and libraries that was capable of 100k events per seconds
-  * Drafted and implemented Site Reliability techniques that increased our reliability during releases by 5x
-  * Handled Lead role for a team of 7 Individual Contributors and junior engineers.
-  * Helped the company to meet its deadline by breaking down engineering deadlocks and that enabled company secure 500 million USD
+#### **Itron Inc** — *Software Engineer Level 2*  
+**May 2017 – Oct 2019**  
+- Designed microservices for high-velocity IoT data ingestion.  
+- Enhanced notification systems, handling 1000+ events per instance with optimized architecture.  
+- Resolved critical issues securing a $500M contract.
 
-> Projects : Notification Service, Component Notification, OHS, IHC.  
-> Technologies Used : C# NetCore, Angular JS, Service Fabric, Kubernetes & Docker, Azure, NoSql  & Sql, Go , Kafka, TDD, DDD, IOT, CI/CD, Azure-Devops
-### CareStack  - Thiruvananthapuram, India
+**Key Technologies:** C# .NET Core, Service Fabric, Kubernetes, Azure, Prometheus, Kafka
 
-> Software Engineer : From  2015/December - To 2017/May
+---
 
-* Description : Engineering web-api related modules for health care product in an agile environment with a focused on Web security, performance & scalability.
-* Achievements :
-  * Built real time service capabilities and async processing that reduced cost by 6x
-  * Improved ux  by imporving api response by 7x  or more
-  * Triaged critical production issues during first go live critical care period
-  * Improved Service reliability by 75%
-  *  Built high performance distributed mem caching that reduced latency by 50%
-  * Resolved performance issues that brought down the database from P11 to S2 in azure saving 40k USD per year at minimum.
+#### **CareStack** — *Software Engineer*  
+**Dec 2015 – May 2017**  
+- Developed secure backend APIs adhering to HIPAA standards.  
+- Improved service reliability by 75% using Azure Functions.  
+- Reduced database costs by $40K annually through optimization.
 
-> Projects : Fuze DPMS & Fuze Patient Portal  
-> Technologies Used : C#.net, Asp.net, Angular  JS, React js  ,TDD
-### Versionz Technologies  - Thiruvananthapuram, India
+**Key Technologies:** C#.NET, ASP.NET, AngularJS, React, TDD, Azure
 
-> Software Engineer & Trainer : From 2011/November - To 2013/August
+---
 
-* Description : Contributed to SDLC of existing financial projects with a focus on finance domain & managing tasks, team members. I have provided training and mentorship to several batches of professionals, as a part of the corporate training .
-* Achievements :
-  * Reengineered our Oracle Enterprise solution for better reliability by moving to event based processing
-  * Introduced Automated Deployment Via ftp.
-  * Innovated Java Based Messaging System controller for Hardware devices
+### **Education & Certifications**  
+- **Master’s in Computer Science & Engineering** (Oct 2015) — 85%  
+- **Certified Kubernetes Application Developer (CKAD)**, O'Reilly (Jan 2024)  
+- **Oracle Certified Professional (OCP)** — Database Developer (Jan 2011)
 
-> Projects : Paybox point of sales & accounting  software  
-> Technologies Used : C#.net, Asp.net, Desktop applications, MVC, Java  
-### Multidata  - Thiruvananthapuram, India
+---
 
- > Junior Engineer :  From 2009/November - To  2011/July
+### **Research & Publications**  
+- *A Hybrid Approach to Crime Prediction Using Deep Learning* — Cited in 100+ papers, contributed to 3 patents  
+- Currently authoring a white paper on **Fault-Tolerant Actor Systems**  
 
-* Description : Development & Maintenance of existing projects majorly using vc++, c#.net, gcc, gdb. Implemented various POC for re-search papers mainly on distributed computing.
-* Achievements :
-  * Built and Deployed Driver Systems that increased revenue for the company successfully for three quarters
-  * Written Printer Solution for Light Logics limited that enabled government's Secure certificate printing system.
+**IEEE Link:** [Research Paper](https://ieeexplore.ieee.org/document/7275858)
 
-> Projects : Printer Driver for Keltron, Distributed Storage System driver, Satnav Module
-> Technologies : C# WinForms, C++, C
-## EDUCATION  
+---
 
-* Kubernetes Certification  CKAD from O'reilly (Dec-2023)
-* Masters Technology - Computer science Engineering   From HITS India with 85%  (Oct-2015)  
-* OCP - Database Developer   Oracle Certification   From Pinnacle with 80%  (Jan-2011)  
-* Bachelor Technology - Computer science Engineering   from MBCET with 64% in  (June- 2009)
-### Hands on Skills
+### **Key Achievements**  
+- Reduced system latency by **10x** and optimized data platforms for **15x** performance gains.  
+- Led development of private cloud infrastructure, reducing costs by **10x**.  
+- Architected systems handling over **100,000 events/second** in high-concurrency environments.  
+- Recognized for **Star Engineer of the Year** at Maersk for outstanding contributions.
 
-* Service Fabric, Azure, AWS,  Kubernetes, Micro-services,  Docker  
-* NoSQL & SQL, Mongodb,  MSSQL, Postgres, MySQL, Elastic Search,  Data Bricks  
-* C#, C++ , GO, Python, ASP .NET, .NetCore  React, Angularjs, Node.js,  Type-Script ,Vue.Js 
-* Entity Framework, ORM, TDD, BDD, Architectural & System Design/ Patterns OOPs, SOLID  
-* CI/CD, Git, DevOps, GitHub,  Jira  ,Scrum ,Agile   
-* Kafka, RabbitMQ, Service  Bus, web-sockets, Signalr,  Event Grid, IOT Hub, Mqtt, REST, WebApi, GRPC  
-* Machine Learning, Big Data,  Spark, PySpark, PowerShell , Bash, Linux 
-* Data Structures & Algorithms  , Low latency / Performance /  Platform/ System Engineering  
-* Ki CAD, Solid works, PDM,  Embedded Systems Development
-### THESIS & RESEARCH WORK  
+---
 
-* A Hybrid approach to Crime prediction using Deep Learning
-  * Developed in collaboration of KERALA POLICE.
-  * Presented & Published in ICACCI Conference-IEEE Cited in more ** than 100 papers and 3 patents**
--  Current White Papers
-  - Election Less Fault Tolerant Distributed Computing - Delegactor
-  - Authoring a book : Engineering at scale
+### **Languages & Tools**  
+C#, C++, Python, .NET Core, Node.js, Vue.js, React, Go, Azure, Docker, Kubernetes, Kafka, Spark, PostgreSQL, MongoDB, Prometheus, Grafana, Terraform, Git, Bash, PowerShell
+
