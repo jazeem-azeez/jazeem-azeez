@@ -83,6 +83,8 @@ Results-oriented Senior Engineer and Co-founder with 15+ years of expertise in *
 
 **IEEE Link:** [Research Paper](https://ieeexplore.ieee.org/document/7275858)
 
+More about my research Paper here :[Impact of the paper](https://github.com/jazeem-azeez/jazeem-azeez/blob/master/A%20Hybrid%20Approach%20to%20Crime%20Prediction%20Using%20Deep%20Learning.md)
+
 ---
 
 ### **Key Achievements**  
