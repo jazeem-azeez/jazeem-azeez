@@ -6,10 +6,7 @@
 - 🌱 I’m currently learning/refreshing ...
   - Go
   - C++
-
-- 👯 I’m looking to collaborate on ...
-  - Delegactor
-    
+   
 - 💬 Ask me about ...
   - Engineering in General
   - C#, Go
