@@ -4,7 +4,7 @@ Kerala, IN
 Phone: +91 9995017123 | +44 7383927657  
 Email: jazeem10@live.com  
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jazeem-azeez-1736a5109/)  
-Notice Period: 1 Month  
+Notice Period: 45 Days
 
 ---
 
