@@ -9,7 +9,7 @@ Notice Period: 45 Days
 ---
 
 ### **Professional Summary**  
-Results-oriented Senior Engineer and Co-founder with 15+ years of expertise in **.NET, C++, Python**, and **Azure**. Proven track record in leading cross-functional teams, designing high-performance systems, and optimizing cloud infrastructures. Passionate about scientific problem-solving, algorithm development, and delivering innovative, data-driven solutions.
+Results-oriented Senior Engineer and Co-founder with 15+ years of expertise in **.NET, C++,GO Python**, and **Azure**. Proven track record in leading cross-functional teams, designing high-performance systems, and optimizing cloud infrastructures. Passionate about scientific problem-solving, algorithm development, and delivering innovative, data-driven solutions.
 
 ---
 
